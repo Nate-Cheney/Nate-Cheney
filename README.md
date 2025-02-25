@@ -1,4 +1,22 @@
-## Hi there 👋
+## Nate Cheney
+- Undergraduate Cyber Security and Data Science student.
+- IT Solutions Analyst intern.
+- I mainly work with Linux, PowerShell, Python, and Windows.
+
+## Things I've Done
+
+#### Homelab
+A Proxmox homelab. I host a number of services and use CloudFlare tunnels and Tailscale for remote access.
+
+#### Ollama-RAG
+A program that allows Ollama models to leverage retrieval-augmented generation to improve LLM outputs.
+
+[https://github.com/Nate-Cheney/Ollama-RAG](https://github.com/Nate-Cheney/Ollama-RAG)
+
+#### YouTube-Transcripts
+A concise program to easily transcribe any YouTube video or Playlist of videos.
+
+[https://github.com/Nate-Cheney/YouTube-Transcripts](https://github.com/Nate-Cheney/YouTube-Transcripts)
 
 <!--
 **Nate-Cheney/Nate-Cheney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
