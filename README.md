@@ -8,6 +8,11 @@
 #### Homelab
 A Proxmox homelab. I host a number of services and use CloudFlare tunnels and Tailscale for remote access.
 
+#### markdown-cli
+A command line application that allows a user to use [MarkItDown]([url](https://github.com/microsoft/markitdown)) from the terminal.
+
+[https://github.com/Nate-Cheney/markitdown-cli]([url](https://github.com/Nate-Cheney/markitdown-cli))
+
 #### Ollama-RAG
 A program that allows Ollama models to leverage retrieval-augmented generation to improve LLM outputs.
 
