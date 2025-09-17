@@ -1,9 +1,9 @@
 ## Nate Cheney
 - Undergraduate Cyber Security and Data Science student.
 - IT Solutions Analyst intern.
-- I mainly work with Linux, PowerShell, Python, and Windows.
+- I work primarily with Linux, PowerShell, Python, and Windows.
 
-## Things I've Done
+## A Few Projects of Mine
 
 #### Homelab
 A Proxmox homelab. I host a number of services and use CloudFlare tunnels and Tailscale for remote access.
