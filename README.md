@@ -6,7 +6,9 @@
 ## A Few Projects of Mine
 
 #### Homelab
-A Proxmox homelab. I host a number of services and use CloudFlare tunnels and Tailscale for remote access.
+I recently migrated my homelab setup from VMs on Proxmox to a fully containerized environment with Docker and Docker Compose to manage all of my services.
+
+[homalab](https://github.com/Nate-Cheney/homelab)
 
 #### markdown-cli
 A command line application that allows a user to use [MarkItDown]([url](https://github.com/microsoft/markitdown)) from the terminal.
