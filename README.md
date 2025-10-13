@@ -8,7 +8,7 @@
 #### Homelab
 I recently migrated my homelab setup from VMs on Proxmox to a fully containerized environment with Docker and Docker Compose to manage all of my services.
 
-[homalab](https://github.com/Nate-Cheney/homelab)
+[https://github.com/Nate-Cheney/homelab](https://github.com/Nate-Cheney/homelab)
 
 #### markdown-cli
 A command line application that allows a user to use [MarkItDown]([url](https://github.com/microsoft/markitdown)) from the terminal.
