@@ -1,41 +1,27 @@
 ## Nate Cheney
-- Undergraduate Cyber Security and Data Science student.
-- IT Solutions Analyst intern.
-- I work primarily with Linux, PowerShell, Python, and Windows.
+
+IT Solutions Analyst intern at [Fishbeck](https://fishbeck.com/). Gruaduating in May 2026 with a Bachelor of Science in AI & Data Science and Cyber Security.
+
+## Technologies & Tools
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nate-Cheney&theme=catpuccin_mocha)](https://github.com/Nate-Cheney/github-readme-stats)
 
 ## A Few Projects of Mine
 
-#### Homelab
-I recently migrated my homelab setup from VMs on Proxmox to a fully containerized environment with Docker and Docker Compose to manage all of my services.
+### Homelab
+I operate a fully containerized homelab environment utilizing IaC to manage a number of services. I have written documentation for each service, security configurations, and basic maintenance.
 
 [https://github.com/Nate-Cheney/homelab](https://github.com/Nate-Cheney/homelab)
 
-#### markdown-cli
-A command line application that allows a user to use [MarkItDown]([url](https://github.com/microsoft/markitdown)) from the terminal.
-
-[https://github.com/Nate-Cheney/markitdown-cli](https://github.com/Nate-Cheney/markitdown-cli)
-
-#### Ollama-RAG
-A program that allows Ollama models to leverage retrieval-augmented generation to improve LLM outputs.
+### Ollama-RAG
+An exploritory program that got me hands on experience with local LLMs, common frameworks, and improving LLM outputs with retrieval-augmented generation.
 
 [https://github.com/Nate-Cheney/Ollama-RAG](https://github.com/Nate-Cheney/Ollama-RAG)
 
-#### YouTube-Transcripts
-A concise program to easily transcribe any YouTube video or Playlist of videos.
+### Arch-Dotfiles
+A work in progress. 
 
-[https://github.com/Nate-Cheney/YouTube-Transcripts](https://github.com/Nate-Cheney/YouTube-Transcripts)
+Originally a repository to preserve the configuration for my desktop. I am working on automating and the entire install process for any device.
 
-<!--
-**Nate-Cheney/Nate-Cheney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[https://github.com/Nate-Cheney/arch-dotfiles](https://github.com/Nate-Cheney/arch-dotfiles)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
