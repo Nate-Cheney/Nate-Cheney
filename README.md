@@ -23,7 +23,7 @@ I operate a fully containerized homelab environment utilizing IaC to manage a nu
 [https://github.com/Nate-Cheney/homelab](https://github.com/Nate-Cheney/homelab)
 
 ### Ollama-RAG
-An exploritory program that got me hands on experience with local LLMs, common frameworks, and improving LLM outputs with retrieval-augmented generation.
+Gained practical expertise in deploying local LLMs and utilizing frameworks such as LangChain, specifically focusing on enhancing model performance through Retrieval-Augmented Generation (RAG).
 
 [https://github.com/Nate-Cheney/Ollama-RAG](https://github.com/Nate-Cheney/Ollama-RAG)
 
