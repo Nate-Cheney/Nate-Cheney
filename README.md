@@ -4,7 +4,16 @@ IT Solutions Analyst intern at [Fishbeck](https://fishbeck.com/). Gruaduating in
 
 ## Technologies & Tools
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nate-Cheney&theme=catpuccin_mocha)](https://github.com/Nate-Cheney/github-readme-stats)
+These are the technologies and tools that I use the most.
+
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#) 
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
+[![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell-white&logoColor=fff)](#) 
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
+[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
 
 ## A Few Projects of Mine
 
@@ -24,4 +33,3 @@ A work in progress.
 Originally a repository to preserve the configuration for my desktop. I am working on automating and the entire install process for any device.
 
 [https://github.com/Nate-Cheney/arch-dotfiles](https://github.com/Nate-Cheney/arch-dotfiles)
-
