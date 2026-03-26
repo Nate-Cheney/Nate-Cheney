@@ -26,11 +26,11 @@ I operate a fully containerized homelab environment utilizing IaC to manage a nu
 
 ### Orbital
 
-An app that allows me to easily adapt, update, and reproduce ad hoc devcontainers. 
+An app that allows me to easily adapt, update, and reproduce ad hoc devcontainers.
 
 Devcontainers are containerized development environments that explicitly define and separate the required applications, tools, libraries, and runtimes that I need for working on different projects.
 
-Orbital utilizes GitHub workflows to automatically build and push the application to the GitHub container repository.
+Orbital utilizes GitHub Workflows for continuous integration and continuous delivery (CI/CD) to the GitHub container repository.
 
 [https://github.com/Nate-Cheney/Orbital](https://github.com/Nate-Cheney/Orbital)
 
