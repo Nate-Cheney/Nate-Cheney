@@ -24,21 +24,26 @@ I operate a fully containerized homelab environment utilizing IaC to manage a nu
 
 [https://github.com/Nate-Cheney/homelab](https://github.com/Nate-Cheney/homelab)
 
-### Ollama-RAG
-Gained expertise in deploying local LLMs and utilizing frameworks such as LangChain, specifically focusing on enhancing model performance through Retrieval-Augmented Generation (RAG).
+### Orbital
 
-[https://github.com/Nate-Cheney/Ollama-RAG](https://github.com/Nate-Cheney/Ollama-RAG)
+An app that allows me to easily adapt, update, and reproduce ad hoc devcontainers. 
+
+Devcontainers are containerized development environments that explicitly define and separate the required applications, tools, libraries, and runtimes that I need for working on different projects.
+
+Orbital utilizes GitHub workflows to automatically build and push the application to the GitHub container repository.
+
+[https://github.com/Nate-Cheney/Orbital](https://github.com/Nate-Cheney/Orbital)
 
 ### Arch-Dotfiles
 
 A work in progress. 
 
-Originally a repository to preserve the configuration for my desktop. I am working on automating and the entire install process for any device.
+Originally a repository to preserve the configuration for my desktop. I've now automated the entire install process for any \[of my] device(s).
 
 [https://github.com/Nate-Cheney/arch-dotfiles](https://github.com/Nate-Cheney/arch-dotfiles)
 
-### Devcontainers
+### Ollama-RAG
 
-Development environments that explicitly define and separate the required applications, tools, libraries, and runtimes that I need for working on different projects. These allow me to easily adapt, update, and reproduce them.
+Gained expertise in deploying local LLMs and utilizing frameworks such as LangChain, specifically focusing on enhancing model performance through Retrieval-Augmented Generation (RAG).
 
-[https://github.com/Nate-Cheney/devcontainers](https://github.com/Nate-Cheney/devcontainers)
+[https://github.com/Nate-Cheney/Ollama-RAG](https://github.com/Nate-Cheney/Ollama-RAG)
