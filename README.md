@@ -1,6 +1,6 @@
 ## Nate Cheney
 
-IT Solutions Analyst intern at [Fishbeck](https://fishbeck.com/). Gruaduating in May 2026 with a Bachelor of Science in AI & Data Science and Cyber Security.
+Data Scientist at [Fishbeck](https://fishbeck.com/).
 
 ## Technologies & Tools
 
@@ -10,11 +10,8 @@ These are the technologies and tools that I use the most.
 [![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#) 
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
-[![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell-white&logoColor=fff)](#) 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
-[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
-[![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#)
 
 ## A Few Projects of Mine
 
